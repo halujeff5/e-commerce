@@ -1,1 +1,1 @@
-# e-commerce-apparel
+# e-commerce
