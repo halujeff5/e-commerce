@@ -1,0 +1,17 @@
+bcrypt
+Flask-bcrypt
+Flask
+Flask-Cors
+Flask_SQLAlchemy
+Flask-WTF
+gunicorn
+Jinja2
+numpy==1.26.4
+pandas
+psycopg2-binary
+python-dotenv
+requests
+SQLAlchemy
+urllib3==1.9
+Werkzeug
+WTForms
